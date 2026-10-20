@@ -1,4 +1,5 @@
 name: Deploy game to GitHub Pages
+# Automatically deploy the static game when main changes
 
 on:
   push:
